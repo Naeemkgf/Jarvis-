@@ -1,0 +1,11 @@
+
+pyttsx3==2.90
+SpeechRecognition==3.8.1
+wikipedia==1.4.0
+pyjokes==0.6.0
+pywhatkit==5.1
+
+
+#run this command in terminal to install all libraries
+
+pip install -r requirements.txt
